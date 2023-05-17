@@ -1,6 +1,6 @@
 # This is source code GPT Voice Assistant Next.js Website
 
-[![Website](https://gpt-voice-assistant.vercel.app)](https://gpt-voice-assistant.vercel.app/)
+[![GPT Voice Assistant Website](https://gpt-voice-assistant-3vsm029nx-harunluk.vercel.app/assets/eye-blue.png)](https://gpt-voice-assistant.vercel.app/)
 
 ## Description
 This repository contains the source code for a GPT Voice Assistant Next.js website. The website utilizes the GPT-3.5 language model to provide a voice-based assistant that can interact with users through natural language processing.

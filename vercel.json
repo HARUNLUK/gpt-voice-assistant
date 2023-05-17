@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/api/chat",
+        "headers": { "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate" },
+        "methods": ["POST"]
+      }
+    ]
+  }
